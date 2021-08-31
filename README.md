@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayazhu Arthur and Linda's dog.
+- 👋 Hi, I’m @mayazhu Arthur and Linda's dog
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning robotics
 - 💞️ I’m looking to collaborate on FLL
